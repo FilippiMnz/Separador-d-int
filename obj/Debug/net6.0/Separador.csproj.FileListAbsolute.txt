@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/Separador/bin/Debug/net6.0/Separador
+/home/lipin-dev/projetos-C#/Separador/bin/Debug/net6.0/Separador.deps.json
+/home/lipin-dev/projetos-C#/Separador/bin/Debug/net6.0/Separador.runtimeconfig.json
+/home/lipin-dev/projetos-C#/Separador/bin/Debug/net6.0/Separador.dll
+/home/lipin-dev/projetos-C#/Separador/bin/Debug/net6.0/Separador.pdb
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.dll
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/refint/Separador.dll
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.pdb
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/Separador.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/Separador/obj/Debug/net6.0/ref/Separador.dll
